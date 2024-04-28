@@ -1,6 +1,7 @@
 # Animal-ML-Project
 1st run, 100 batch, 5 epoch, about 0.2 accuracy
 second run, 100 batch, 20 epoch, about 0.6 accuracy
+3rd run, 420 batch, 69, epoch, 0.9 acc 0.51 val acc, overfit
 
 Report Requirement:
 1. The text of the report must be prepared using 12 point type and 1 inch

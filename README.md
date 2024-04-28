@@ -3,6 +3,8 @@
 second run, 100 batch, 20 epoch, about 0.6 accuracy
 3rd run, 420 batch, 69, epoch, 0.9 acc 0.51 val acc, overfit
 
+tried smaller learning rate, tried larger regularization number
+
 Report Requirement:
 1. The text of the report must be prepared using 12 point type and 1 inch
 margins. Project report should be around 3-4 pages and include the
